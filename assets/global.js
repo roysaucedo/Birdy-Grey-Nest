@@ -899,3 +899,40 @@ class VariantRadios extends VariantSelects {
 }
 
 customElements.define('variant-radios', VariantRadios);
+
+
+//Slider is Slider with Text JS
+$(document).ready(function(){
+  $('.slider').slick({
+    slidesToShow: 1,
+    infinite: true,
+    autoplay: true,
+    autoplaySpeed: 3000,
+    arrows: true,
+    dots: true,
+    slidesToScroll: 1,
+    responsive: [
+        {
+        breakpoint: 989,
+        settings: {
+            infinite: true,  
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            arrows: true,
+            autoplay: true,
+        }
+        },
+        {
+        breakpoint: 750,
+        settings: {
+            infinite: true,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            arrows: true,
+            autoplay: true,
+        }
+        }
+    ]
+  });
+
+});
