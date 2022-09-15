@@ -1,5 +1,81 @@
 {
   "sections": {
+    "166325720655a91300": {
+      "type": "slider-with-text",
+      "blocks": {
+        "ad7922cf-c944-4281-8d95-3d1ef5297e77": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bridesmaids.webp"
+          }
+        },
+        "a0e97dd6-c16f-4658-b12c-9e89277d9edb": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sweatsuits.webp"
+          }
+        }
+      },
+      "block_order": [
+        "ad7922cf-c944-4281-8d95-3d1ef5297e77",
+        "a0e97dd6-c16f-4658-b12c-9e89277d9edb"
+      ],
+      "settings": {
+        "heading": "Heading",
+        "caption": "",
+        "text": "<p><strong>Lorem Ipsum <\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
+        "button_label": "",
+        "button_url": "",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1663257245b170fa36": {
+      "type": "slider-with-text",
+      "blocks": {
+        "cb4d6d18-daf2-40e0-a796-c5088ce1a747": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sweatsuits.webp"
+          }
+        },
+        "7dd1394b-e90d-45e0-9313-387888aef666": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bridesmaids.webp"
+          }
+        }
+      },
+      "block_order": [
+        "cb4d6d18-daf2-40e0-a796-c5088ce1a747",
+        "7dd1394b-e90d-45e0-9313-387888aef666"
+      ],
+      "settings": {
+        "heading": "Header",
+        "caption": "",
+        "text": "<p><strong>Lorem Ipsum <\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
+        "button_label": "Shop Now",
+        "button_url": "shopify:\/\/collections\/all",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -208,92 +284,16 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "166325720655a91300": {
-      "type": "slider-with-text",
-      "blocks": {
-        "ad7922cf-c944-4281-8d95-3d1ef5297e77": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Bridesmaids.webp"
-          }
-        },
-        "a0e97dd6-c16f-4658-b12c-9e89277d9edb": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sweatsuits.webp"
-          }
-        }
-      },
-      "block_order": [
-        "ad7922cf-c944-4281-8d95-3d1ef5297e77",
-        "a0e97dd6-c16f-4658-b12c-9e89277d9edb"
-      ],
-      "settings": {
-        "heading": "Heading",
-        "caption": "",
-        "text": "<p><strong>Lorem Ipsum <\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
-        "button_label": "",
-        "button_url": "",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1663257245b170fa36": {
-      "type": "slider-with-text",
-      "blocks": {
-        "cb4d6d18-daf2-40e0-a796-c5088ce1a747": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sweatsuits.webp"
-          }
-        },
-        "7dd1394b-e90d-45e0-9313-387888aef666": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Bridesmaids.webp"
-          }
-        }
-      },
-      "block_order": [
-        "cb4d6d18-daf2-40e0-a796-c5088ce1a747",
-        "7dd1394b-e90d-45e0-9313-387888aef666"
-      ],
-      "settings": {
-        "heading": "Header",
-        "caption": "",
-        "text": "<p><strong>Lorem Ipsum <\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
-        "button_label": "Shop Now",
-        "button_url": "shopify:\/\/collections\/all",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
+    "166325720655a91300",
+    "1663257245b170fa36",
     "image_banner",
     "rich_text",
     "featured_collection",
     "collage",
     "video",
-    "multicolumn",
-    "166325720655a91300",
-    "1663257245b170fa36"
+    "multicolumn"
   ]
 }
